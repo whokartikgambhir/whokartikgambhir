@@ -1,6 +1,6 @@
 # :man_technologist: Kartik Gambhir
 
-Working as a Software Engineer at <a href="https://www.nagarro.com/"> <b>Nagarro.com</b></a> in Gurugram(Haryana) India.
+Working as a Senior Software Engineer at <a href="https://www.nagarro.com/"> <b>Nagarro.com</b></a> in Gurugram(Haryana) India.
 
 ## About Me
 
