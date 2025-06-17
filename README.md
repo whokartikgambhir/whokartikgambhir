@@ -1,43 +1,48 @@
 # 👋 Hey, I’m Kartik Gambhir
 
-Welcome to my corner of GitHub — where software meets strategy.
+Welcome to my GitHub — where clean code meets real-world scale.
 
 [![:the_jam:](https://cdn.discordapp.com/emojis/745354525958996138.gif?v=1)](https://asyrafff.com/)
+<p align="center">
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="280" alt="Coding Cat GIF" />
+</p>
 
 ---
 
 ## 💼 About Me
 
-I'm a Senior Software Engineer and Open Source Contributor.
+I'm a **Senior Software Engineer** at [Nagarro](https://www.nagarro.com/), delivering robust backend systems and scalable cloud-native applications.
 
-With over a 3.4 years of hands-on experience, I specialize in building high-impact systems for business development, onboarding, and internal tools — especially in the "" ecosystem and beyond.
+With **3.4+ years** of experience, I specialize in building distributed systems, developer tools, onboarding workflows, and internal platforms — primarily in the **Node.js + AWS** ecosystem.
 
-I believe great software solves real problems and empowers people. I build fast, think big, and ship smart.
+- 🧠 Strong in architecture, fast in delivery, and mindful of scale.  
+- ⚙️ I enjoy tackling real business challenges with clean, performant code.  
+- 🚀 Tech that runs fast and makes sense — that’s what I build.
 
 ---
 
 ## ⚙️ What I Do
 
-- 🔁 ****  
-  ""
+- 🔁 **Backend Systems @ Scale**  
+  Microservices, serverless APIs, and internal tools for global enterprises.
 
-- 📈 ****  
-  ""
+- 📈 **Cloud-Native Solutions**  
+  AWS Lambda, API Gateway, S3, DocumentDB, Aurora — the whole stack.
 
-- 💡 ****  
-  ""
+- 💡 **Open Source Tools & Innovation**  
+  Projects like `GitHub PR Analytics`, `Smart Kafka Debugger`, and `PaperTraderX`.
 
-- 🤖 **Developer Mentorship & Tools**  
-  From "vibe coding" for beginners to full-blown system architecture — I love teaching and empowering devs at all levels.
+- 🤖 **Mentorship & Engineering Culture**  
+  From code quality to career advice — I believe in helping devs grow.
 
 ---
 
 ## 🧠 Currently Focused On
 
-- 🔨 ""
-- 📱 ""
-- 🧰 ""
-- 🛰️ ""
+- 🔨 Building: **GitHub PR Analytics** with caching, metrics, and PAT security  
+- 📱 Experimenting: **PaperTraderX** (simulated trading with real market data)  
+- 🧰 Exploring: **Kafka Debugging Tools**, AI-powered DevOps insights  
+- 🛰️ Learning: **Blockchain**, **DevSecOps**, and **Event-Driven Design**
 
 ---
 
@@ -45,18 +50,36 @@ I believe great software solves real problems and empowers people. I build fast,
 
 > *"A senior dev should solve any problem, not just the one assigned."*
 
-I live by this. I'm not afraid to roll up my sleeves, dig into new tech, or lead teams through complexity. I care about clarity, autonomy, and momentum. Great code should *move the business*.
+I live by this. Whether it’s unblocking a team or picking the right architecture, I step in where needed. I care deeply about **clarity**, **autonomy**, and **momentum** — and I ship with all three.
 
 ---
 
-## 🔗 Let’s Connect
+## 🧰 Tech Stack
 
-[![Linkedin Badge](https://img.shields.io/badge/-kartikgambhir-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kartik-gambhir-034b43169/)](https://www.linkedin.com/in/kartik-gambhir-034b43169/)
-[![Gmail Badge](https://img.shields.io/badge/-gambhirkartik5@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gambhirkartik5@gmail.com)](mailto:gambhirkartik5@gmail.com)
-[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=+919599741784=Hello!)](https://api.whatsapp.com/send?phone=+919599741784&text=Hello!)
-[![Telegram Badge](https://img.shields.io/badge/-kartikgambhir-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=telegram&logoColor=white&link=https://t.me/kartikgambhir)](https://t.me/kartikgambhir)
-- 📬 Reach Out: DM me or open an issue — always down to talk shop or collab
+```ts
+Languages:      JavaScript | TypeScript | Python  
+Backend:        Node.js | Express.js | REST APIs  
+Databases:      MongoDB | MySQL | Amazon Aurora | DocumentDB  
+Cloud:          AWS Lambda | API Gateway | S3 | Serverless | CodePipeline  
+Messaging:      Kafka | Redis | WebSockets  
+Tools:          Git | JIRA | Postman | VS Code | Jest | Mocha
 
----
-⭐ From [Kartik Gambhir](https://github.com/whokartikgambhir)
-**Built with coffee, curiosity, and a belief that software should feel like magic.**
+🏆 Achievements
+🥇 Gold + Silver Stars – Recognized at Nagarro for Engineering Excellence
+
+🚀 Led Migration – Oracle-ATG to AWS Serverless (40% efficiency boost)
+
+📊 Delivered – High-traffic backend platforms with near-zero downtime
+
+👨‍🏫 Mentored – Onboarded new engineers, reviewed PRs, and led feature teams
+
+🔗 Let’s Connect
+
+
+
+
+
+📬 Reach Out: DM me, connect on LinkedIn, or open an issue — happy to collab or brainstorm 🚀
+
+⭐ From Kartik Gambhir
+☕ Built with curiosity, caffeine, and a belief that code should feel like magic.
