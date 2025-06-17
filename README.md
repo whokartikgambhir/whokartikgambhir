@@ -16,7 +16,7 @@ With more then **3.5+ years** of experience, I specialize in building distribute
 - ⚙️ I enjoy tackling real business challenges with clean, performant code.  
 - 🚀 Tech that runs fast and makes sense - that’s what I build.
 
-I believe great software solves real problems and empowers people. I build fast, think big, and ship smart.
+I believe great software solves real problems and empowers people. I build fast, think big and ship smart.
 
 ---
 
@@ -29,7 +29,7 @@ I believe great software solves real problems and empowers people. I build fast,
   AWS Lambda, API Gateway, S3, DocumentDB, Aurora - the whole stack.
 
 - 💡 **Open Source Tools & Innovation**  
-  Projects like `GitHub PR Analytics`, `Smart Kafka Debugger`, and `PaperTraderX`.
+  Projects like `GitHub PR Analytics`, `Smart Kafka Debugger` and `PaperTraderX`.
 
 - 🤖 **Mentorship & Engineering Culture**  
   From code quality to career advice - I believe in helping devs grow.
@@ -38,7 +38,7 @@ I believe great software solves real problems and empowers people. I build fast,
 
 ## 🧠 Currently Focused On
 
-- 🔨 Building: **GitHub PR Analytics** with caching, metrics, and PAT security  
+- 🔨 Building: **GitHub PR Analytics** with caching, metrics and PAT security  
 - 📱 Experimenting: **PaperTraderX** (simulated trading with real market data)  
 - 🧰 Exploring: **Kafka Debugging Tools**, AI-powered DevOps insights  
 - 🛰️ Learning: **Blockchain**, **DevSecOps** and **Event-Driven Design**
@@ -49,7 +49,7 @@ I believe great software solves real problems and empowers people. I build fast,
 
 > *"A senior dev should solve any problem, not just the one assigned."*
 
-I live by this. Whether it’s unblocking a team or picking the right architecture, I step in where needed. I care deeply about **clarity**, **autonomy**, and **momentum** — and I ship with all three.
+I live by this. Whether it’s unblocking a team or picking the right architecture, I step in where needed. I care deeply about **clarity**, **autonomy** and **momentum** — and I ship with all three.
 
 ---
 
@@ -70,7 +70,7 @@ Tools:          Git | JIRA | Postman | VS Code | Jest | Mocha
 
 📊 Delivered – High-traffic backend platforms with near-zero downtime
 
-👨‍🏫 Mentored – Onboarded new engineers, reviewed PRs, and led feature teams
+👨‍🏫 Mentored – Onboarded new engineers, reviewed PRs and led feature teams
 
 🔗 Let’s Connect
 
@@ -81,4 +81,4 @@ Tools:          Git | JIRA | Postman | VS Code | Jest | Mocha
 📬 Reach Out: DM me, connect on LinkedIn, or open an issue — happy to collab or brainstorm 🚀
 
 ⭐ From Kartik Gambhir
-☕ Built with curiosity, caffeine, and a belief that code should feel like magic.
+☕ Built with curiosity, caffeine and a belief that code should feel like magic.
