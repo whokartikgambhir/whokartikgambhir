@@ -1,14 +1,11 @@
-<table>
-  <tr>
-    <td>
-      <h1>👋 Hey, I’m Kartik Gambhir</h1>
-      <p>Welcome to my corner of GitHub - where software meets strategy.</p>
-    </td>
-    <td>
-      <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3lpemZ4b3RpanlweG1pYm5va3pvdWl0MGIzZGpiMTc4YjhuY295eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Cmr1OMJ2FN0B2/giphy.gif" width="140" alt="Waving GIF" />
-    </td>
-  </tr>
-</table>
+<div align="left">
+  <h1>👋 Hey, I’m Kartik Gambhir</h1>
+  <p>Welcome to my corner of GitHub — where software meets strategy.</p>
+</div>
+
+<div align="right">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3lpemZ4b3RpanlweG1pYm5va3pvdWl0MGIzZGpiMTc4YjhuY295eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Cmr1OMJ2FN0B2/giphy.gif" width="150" alt="Waving GIF" />
+</div>
 
 <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="280" alt="Coding Cat GIF" />
 
