@@ -55,10 +55,9 @@ I live by this. Whether it’s unblocking a team or picking the right architectu
 
 ## 🔗 Let’s Connect
 
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="20"/> [LinkedIn](https://www.linkedin.com/in/kartik-gambhir-034b43169/)
-- <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" width="20"/> [gambhirkartik5@gmail.com](mailto:gambhirkartik5@gmail.com)
-- <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/X_logo_2023.svg" width="20"/> [Twitter / X](https://x.com/KartikGambhir18)
-
+- 🔗 **LinkedIn**: [kartik-gambhir-034b43169](https://www.linkedin.com/in/kartik-gambhir-034b43169/)
+- ✉️ **Email**: [gambhirkartik5@gmail.com](mailto:gambhirkartik5@gmail.com)
+- 🐦 **Twitter / X**: [@KartikGambhir18](https://x.com/KartikGambhir18)
 
 📬 Reach Out: DM me, connect on LinkedIn, or open an issue - happy to collab or brainstorm 🚀
 
