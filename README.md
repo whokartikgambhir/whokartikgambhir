@@ -13,7 +13,6 @@
 
 <h2>
   💼 About Me
-  <img class="media_gif__MBeQG" style="aspect-ratio:478/250" src="https://i.giphy.com/QQkyLVLAbQRKU.webp" alt="about-me-gif" align="right" width="180" height="120">
 </h2>
 
 I'm a **Senior Software Engineer** at [Nagarro](https://www.nagarro.com/), delivering robust backend systems and scalable cloud-native applications.
