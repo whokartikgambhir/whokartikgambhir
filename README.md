@@ -6,7 +6,7 @@
 </div>
 
 <p align="center">
-  Welcome to my corner of GitHub — where software meets strategy.
+  Welcome to my corner of GitHub - where software meets strategy.
 </p>
 
 ---
