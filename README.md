@@ -1,4 +1,10 @@
-# :man_technologist: Kartik Gambhir
+# 👋 Hey, I’m Kartik Gambhir
+
+Welcome to my corner of GitHub — where software meets strategy.
+
+[![:the_jam:](https://cdn.discordapp.com/emojis/745354525958996138.gif?v=1)](https://asyrafff.com/)
+
+---
 
 Working as a Senior Software Engineer at <a href="https://www.nagarro.com/"> <b>Nagarro.com</b></a> in Gurugram(Haryana) India.
 
