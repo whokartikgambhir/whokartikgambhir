@@ -1,6 +1,6 @@
 # 👋 Hey, I’m Kartik Gambhir
 
-Welcome to my GitHub — where clean code meets real-world scale.
+Welcome to my corner of GitHub — where software meets strategy.
 
 <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="280" alt="Coding Cat GIF" />
 
@@ -10,27 +10,29 @@ Welcome to my GitHub — where clean code meets real-world scale.
 
 I'm a **Senior Software Engineer** at [Nagarro](https://www.nagarro.com/), delivering robust backend systems and scalable cloud-native applications.
 
-With **3.4+ years** of experience, I specialize in building distributed systems, developer tools, onboarding workflows, and internal platforms — primarily in the **Node.js + AWS** ecosystem.
+With more then **3.5+ years** of experience, I specialize in building distributed systems, developer tools, onboarding workflows and internal platforms.
 
-- 🧠 Strong in architecture, fast in delivery, and mindful of scale.  
+- 🧠 Strong in architecture, fast in delivery and mindful of scale.  
 - ⚙️ I enjoy tackling real business challenges with clean, performant code.  
-- 🚀 Tech that runs fast and makes sense — that’s what I build.
+- 🚀 Tech that runs fast and makes sense - that’s what I build.
+
+I believe great software solves real problems and empowers people. I build fast, think big, and ship smart.
 
 ---
 
 ## ⚙️ What I Do
 
 - 🔁 **Backend Systems @ Scale**  
-  Microservices, serverless APIs, and internal tools for global enterprises.
+  Microservices, serverless APIs and internal tools for global enterprises.
 
 - 📈 **Cloud-Native Solutions**  
-  AWS Lambda, API Gateway, S3, DocumentDB, Aurora — the whole stack.
+  AWS Lambda, API Gateway, S3, DocumentDB, Aurora - the whole stack.
 
 - 💡 **Open Source Tools & Innovation**  
   Projects like `GitHub PR Analytics`, `Smart Kafka Debugger`, and `PaperTraderX`.
 
 - 🤖 **Mentorship & Engineering Culture**  
-  From code quality to career advice — I believe in helping devs grow.
+  From code quality to career advice - I believe in helping devs grow.
 
 ---
 
@@ -39,7 +41,7 @@ With **3.4+ years** of experience, I specialize in building distributed systems,
 - 🔨 Building: **GitHub PR Analytics** with caching, metrics, and PAT security  
 - 📱 Experimenting: **PaperTraderX** (simulated trading with real market data)  
 - 🧰 Exploring: **Kafka Debugging Tools**, AI-powered DevOps insights  
-- 🛰️ Learning: **Blockchain**, **DevSecOps**, and **Event-Driven Design**
+- 🛰️ Learning: **Blockchain**, **DevSecOps** and **Event-Driven Design**
 
 ---
 
