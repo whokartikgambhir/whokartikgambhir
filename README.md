@@ -1,14 +1,13 @@
-<h1 align="center">
-  👋 Hey, I’m Kartik Gambhir
-</h1>
+<div align="center">
+  <h1 style="display: inline-block; margin-right: 10px;">
+    👋 Hey, I’m Kartik Gambhir
+  </h1>
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3lpemZ4b3RpanlweG1pYm5va3pvdWl0MGIzZGpiMTc4YjhuY295eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Cmr1OMJ2FN0B2/giphy.gif" width="50" alt="Waving Penguin GIF" style="vertical-align: middle;" />
+</div>
 
 <p align="center">
   Welcome to my corner of GitHub — where software meets strategy.
 </p>
-
-<div align="right">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3lpemZ4b3RpanlweG1pYm5va3pvdWl0MGIzZGpiMTc4YjhuY295eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Cmr1OMJ2FN0B2/giphy.gif" width="50" alt="Waving Penguin GIF" />
-</div>
 
 ---
 
