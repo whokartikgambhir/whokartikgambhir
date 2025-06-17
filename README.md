@@ -55,9 +55,19 @@ I live by this. Whether it’s unblocking a team or picking the right architectu
 
 ## 🔗 Let’s Connect
 
-[![Linkedin Badge](https://img.shields.io/badge/-kartikgambhir-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kartik-gambhir-034b43169/)](https://www.linkedin.com/in/kartik-gambhir-034b43169/)
-[![Gmail Badge](https://img.shields.io/badge/-gambhirkartik5@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gambhirkartik5@gmail.com)](mailto:gambhirkartik5@gmail.com)
-[![Twitter Badge](https://img.shields.io/badge/-@KartikGambhir18-1DA1F2?style=flat-square&logo=twitter&logoColor=white&link=https://x.com/KartikGambhir18)](https://x.com/KartikGambhir18)
+<p>
+  <a href="https://www.linkedin.com/in/kartik-gambhir-034b43169/" target="_blank">
+    <img alt="LinkedIn" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30" />
+  </a>
+  &nbsp;
+  <a href="mailto:gambhirkartik5@gmail.com">
+    <img alt="Gmail" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" width="30" />
+  </a>
+  &nbsp;
+  <a href="https://x.com/KartikGambhir18" target="_blank">
+    <img alt="X (Twitter)" src="https://upload.wikimedia.org/wikipedia/commons/9/95/X_logo_2023.svg" width="28" />
+  </a>
+</p>
 
 📬 Reach Out: DM me, connect on LinkedIn, or open an issue — happy to collab or brainstorm 🚀
 
