@@ -1,14 +1,14 @@
-<table width="100%">
-  <tr>
-    <td align="left">
-      <h1>👋 Hey, I’m Kartik Gambhir</h1>
-      <p>Welcome to my corner of GitHub — where software meets strategy.</p>
-    </td>
-    <td align="right" width="100">
-      <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3lpemZ4b3RpanlweG1pYm5va3pvdWl0MGIzZGpiMTc4YjhuY295eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Cmr1OMJ2FN0B2/giphy.gif" width="60" alt="Waving Penguin GIF" />
-    </td>
-  </tr>
-</table>
+<h1 align="center">
+  👋 Hey, I’m Kartik Gambhir
+</h1>
+
+<p align="center">
+  Welcome to my corner of GitHub — where software meets strategy.
+</p>
+
+<div align="right">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3lpemZ4b3RpanlweG1pYm5va3pvdWl0MGIzZGpiMTc4YjhuY295eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Cmr1OMJ2FN0B2/giphy.gif" width="50" alt="Waving Penguin GIF" />
+</div>
 
 ---
 
