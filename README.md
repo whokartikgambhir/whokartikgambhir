@@ -63,5 +63,4 @@ I live by this. Whether it’s unblocking a team or picking the right architectu
 
 ---
 
-⭐ From Kartik Gambhir  
 ☕ Built with curiosity, caffeine and a belief that code should feel like magic.
