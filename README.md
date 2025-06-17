@@ -68,6 +68,9 @@ I live by this. Whether it’s unblocking a team or picking the right architectu
 
 ## 🔗 Let’s Connect
 
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTQ3cncydTcwcjQ4bGxzdHg5ZzY2bWZkZHl1ZHYzazZmMG94aWJwNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0GtHIM5EbawwbX1K/giphy.gif" align="right" width="200" alt="That's what I do GIF" />
+
+
 - 🔗 **LinkedIn**: [kartik-gambhir-034b43169](https://www.linkedin.com/in/kartik-gambhir-034b43169/)
 - ✉️ **Email**: [gambhirkartik5@gmail.com](mailto:gambhirkartik5@gmail.com)
 - 🐦 **Twitter / X**: [@KartikGambhir18](https://x.com/KartikGambhir18)
