@@ -60,6 +60,8 @@ I believe great software solves real problems and empowers people. I build fast,
 
 > *"A senior dev should solve any problem, not just the one assigned."*
 
+<img class="media_gif__MBeQG" style="aspect-ratio:350/268" src="https://i.giphy.com/eMu0803X2zkWY.webp" alt="" width="200">
+
 I live by this. Whether it’s unblocking a team or picking the right architecture, I step in where needed. I care deeply about **clarity**, **autonomy** and **momentum** — and I ship with all three.
 
 ---
