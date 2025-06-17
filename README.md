@@ -53,30 +53,12 @@ I live by this. Whether it’s unblocking a team or picking the right architectu
 
 ---
 
-## 🧰 Tech Stack
-
-```ts
-Languages:      JavaScript | TypeScript | Python  
-Backend:        Node.js | Express.js | REST APIs  
-Databases:      MongoDB | MySQL | Amazon Aurora | DocumentDB  
-Cloud:          AWS Lambda | API Gateway | S3 | Serverless | CodePipeline  
-Messaging:      Kafka | Redis | WebSockets  
-Tools:          Git | JIRA | Postman | VS Code | Jest | Mocha
-
-🏆 Achievements
-🥇 Gold + Silver Stars – Recognized at Nagarro for Engineering Excellence
-
-🚀 Led Migration – Oracle-ATG to AWS Serverless (40% efficiency boost)
-
-📊 Delivered – High-traffic backend platforms with near-zero downtime
-
-👨‍🏫 Mentored – Onboarded new engineers, reviewed PRs and led feature teams
-
 🔗 Let’s Connect
 
-
-
-
+[![Linkedin Badge](https://img.shields.io/badge/-kartikgambhir-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kartik-gambhir-034b43169/)](https://www.linkedin.com/in/kartik-gambhir-034b43169/)
+[![Gmail Badge](https://img.shields.io/badge/-gambhirkartik5@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gambhirkartik5@gmail.com)](mailto:gambhirkartik5@gmail.com)
+[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=+919599741784=Hello!)](https://api.whatsapp.com/send?phone=+919599741784&text=Hello!)
+[![Telegram Badge](https://img.shields.io/badge/-kartikgambhir-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=telegram&logoColor=white&link=https://t.me/kartikgambhir)](https://t.me/kartikgambhir)
 
 📬 Reach Out: DM me, connect on LinkedIn, or open an issue — happy to collab or brainstorm 🚀
 
