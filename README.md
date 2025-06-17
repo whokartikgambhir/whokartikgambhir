@@ -27,7 +27,11 @@ I believe great software solves real problems and empowers people. I build fast,
 
 ---
 
-## ⚙️ What I Do
+<h2>
+  ⚙️ What I Do
+</h2>
+
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExem5uZmtkbXd5N3U2dmJ0dDNjbWdxNDZ5M2t5aXg3djR0eWVoZWxxZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dsHZLWYu5SC6k/giphy.gif" align="right" width="300" alt="That's what I do GIF" />
 
 - 🔁 **Backend Systems @ Scale**  
   Microservices, serverless APIs and internal tools for global enterprises.
