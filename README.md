@@ -10,11 +10,11 @@ Welcome to my corner of GitHub — where software meets strategy.
 
 I'm a **Senior Software Engineer** at [Nagarro](https://www.nagarro.com/), delivering robust backend systems and scalable cloud-native applications.
 
-With more then **3.5+ years** of experience, I specialize in building distributed systems, developer tools, onboarding workflows and internal platforms.
+With more than **3.5+ years** of experience, I specialize in building distributed systems, developer tools, onboarding workflows and internal platforms.
 
 - 🧠 Strong in architecture, fast in delivery and mindful of scale.  
 - ⚙️ I enjoy tackling real business challenges with clean, performant code.  
-- 🚀 Tech that runs fast and makes sense - that’s what I build.
+- 🚀 Tech that runs fast and makes sense — that’s what I build.
 
 I believe great software solves real problems and empowers people. I build fast, think big and ship smart.
 
@@ -26,13 +26,13 @@ I believe great software solves real problems and empowers people. I build fast,
   Microservices, serverless APIs and internal tools for global enterprises.
 
 - 📈 **Cloud-Native Solutions**  
-  AWS Lambda, API Gateway, S3, DocumentDB, Aurora - the whole stack.
+  AWS Lambda, API Gateway, S3, DocumentDB, Aurora — the whole stack.
 
 - 💡 **Open Source Tools & Innovation**  
   Projects like `GitHub PR Analytics`, `Smart Kafka Debugger` and `PaperTraderX`.
 
 - 🤖 **Mentorship & Engineering Culture**  
-  From code quality to career advice - I believe in helping devs grow.
+  From code quality to career advice — I believe in helping devs grow.
 
 ---
 
@@ -53,14 +53,15 @@ I live by this. Whether it’s unblocking a team or picking the right architectu
 
 ---
 
-🔗 Let’s Connect
+## 🔗 Let’s Connect
 
 [![Linkedin Badge](https://img.shields.io/badge/-kartikgambhir-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kartik-gambhir-034b43169/)](https://www.linkedin.com/in/kartik-gambhir-034b43169/)
 [![Gmail Badge](https://img.shields.io/badge/-gambhirkartik5@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gambhirkartik5@gmail.com)](mailto:gambhirkartik5@gmail.com)
-[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=+919599741784=Hello!)](https://api.whatsapp.com/send?phone=+919599741784&text=Hello!)
-[![Telegram Badge](https://img.shields.io/badge/-kartikgambhir-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=telegram&logoColor=white&link=https://t.me/kartikgambhir)](https://t.me/kartikgambhir)
+[![Twitter Badge](https://img.shields.io/badge/-@KartikGambhir18-1DA1F2?style=flat-square&logo=twitter&logoColor=white&link=https://x.com/KartikGambhir18)](https://x.com/KartikGambhir18)
 
 📬 Reach Out: DM me, connect on LinkedIn, or open an issue — happy to collab or brainstorm 🚀
 
-⭐ From Kartik Gambhir
+---
+
+⭐ From Kartik Gambhir  
 ☕ Built with curiosity, caffeine and a belief that code should feel like magic.
